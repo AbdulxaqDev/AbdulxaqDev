@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdulxaqDev
+- 👋 Hi, I’m Javascript developer
 - 👀 I’m interested in learning new thing and creating
 - 🌱 I’m currently learning React, Nest, Next, Prisma, GraphQL and Apollo
 - 💞️ I’m looking to collaborate on your project
