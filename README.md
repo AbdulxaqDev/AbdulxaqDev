@@ -6,10 +6,9 @@
 - 💼 Open to work
 
 
-
-
 ![](https://www.codewars.com/users/AbdulxaqDev/badges/large)
-![LeetCode Stats](https://leetcard.jacoblin.cool/abdulkhak8tursunov?theme=light&font=Noto%20Sans%20Inscriptional%20Parthian)
+
+![](https://leetcard.jacoblin.cool/AbdulxaqDev?theme=nord&font=Fira%20Code&ext=heatmap)
 
 <!---
 AbdulxaqDev/AbdulxaqDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
