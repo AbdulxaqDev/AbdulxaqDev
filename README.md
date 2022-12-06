@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Nextjs, Python Core...
 - 💞️ I’m looking to collaborate on your start up and project to bring hands on solitions and grow together. 
 - 📫 How to reach me abdulkhak8tursunov@gmail.com
+- 🤖 Visit my website https://abdulkhak-tursunov-qnn3.vercel.app/
 - 💼 Open to work
 
 
